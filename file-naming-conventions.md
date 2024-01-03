@@ -38,7 +38,7 @@ To maintain a consistent file naming policy and process for easy retrieval of di
 
 
 ## Reference
-[Folder and File Naming Convention – 10 Rules for Best Practice](https://exadox.com/en/articles/file-naming-convention-ten-rules-best-practice) - from Exadox
-[Best practices for building file naming conventions](https://www.resourcespace.com/blog/file-naming-conventions) - from ResourceSpace
-[ ] [To Read] [How to organize files and folders](https://zapier.com/blog/organize-files-folders/) - from Zapier
+[Folder and File Naming Convention – 10 Rules for Best Practice](https://exadox.com/en/articles/file-naming-convention-ten-rules-best-practice) - from Exadox  
+[Best practices for building file naming conventions](https://www.resourcespace.com/blog/file-naming-conventions) - from ResourceSpace  
+[ ] [To Read] [How to organize files and folders](https://zapier.com/blog/organize-files-folders/) - from Zapier  
 
